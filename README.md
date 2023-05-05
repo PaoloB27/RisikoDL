@@ -1,6 +1,6 @@
-#RisikoDL
+# RisikoDL
 
-##The goal is to develop an object detection system for the Risiko! game
+## The goal is to develop an object detection system for the Risiko! game
 (https://en.wikipedia.org/wiki/RisiKo!)
 
 As you may know, in Risiko! game there are two (usually) types of pieces:
