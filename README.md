@@ -1,6 +1,7 @@
 # RisikoDL
 
-## The goal is to develop an object detection system for the Risiko! game
+## Goal
+The goal is to develop an object detection system for the Risiko! game:
 (https://en.wikipedia.org/wiki/RisiKo!)
 
 ## Instructions of the project
