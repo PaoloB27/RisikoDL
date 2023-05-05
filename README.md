@@ -3,6 +3,7 @@
 ## The goal is to develop an object detection system for the Risiko! game
 (https://en.wikipedia.org/wiki/RisiKo!)
 
+## Instructions of the project
 As you may know, in Risiko! game there are two (usually) types of pieces:
 tanks and flags.
 For this project, you need to design and implement a method for detecting
@@ -29,3 +30,9 @@ For comparison, you can find a YOLOv7 model (scripts are taken from this repo ht
 task. Use the notebook Risiko! Test.ipynb and report the performance of this model on your test set (both synthetic and real) in your project
 report.
 Try to think how to integrate this system in a fully autonomous player of Risiko! You’ll never lose a match again!
+
+## Links
+All the already provided material mentioned above and needed for the development of the project can be downloaded from the following link:
+https://mega.nz/file/XXZg3DKL#SOvWrs1kBXf8NgIQNAO4vp5YCq3sXHO-75yCQIMrsDg
+Actually, everything has alredy been put in this Github repository, except for the pretrained weights, which can be downloaded from:
+https://drive.google.com/drive/folders/1_BQ6d8PFyCN826KZxzPn-twB9yGeKP7u?usp=share_link
