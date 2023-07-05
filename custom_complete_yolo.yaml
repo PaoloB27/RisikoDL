@@ -1,0 +1,29 @@
+# Train/val/test sets as 1) dir: path/to/imgs, 2) file: path/to/imgs.txt, or 3) list: [path/to/imgs1, path/to/imgs2, ..]
+
+# dataset root dir
+path: ../datasets
+
+# train images (relative to "path")
+train: [train/synthetic/images, train/real/images]
+
+# validation images (relative to "path")
+val: validation/synthetic/images
+
+# test images (relative to "path")
+test: train/synthetic/images
+
+# 12 classes: 6 tanks and 6 flags
+names:
+  0: "blue_army"
+  1: "red_army"
+  2: "yellow_army"
+  3: "purple_army"
+  4: "black_army"
+  5: "green_army"
+  6: "blue_flag"
+  7: "red_flag"
+  8: "yellow_flag"
+  9: "purple_flag"
+  10: "black_flag"
+  11: "green_flag"
+  
