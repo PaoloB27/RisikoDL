@@ -7,10 +7,10 @@ path: ../datasets
 train: [train/synthetic/images, train/real/images]
 
 # validation images (relative to "path")
-val: validation/synthetic/images
+val: [validation/synthetic/images, validation/real/images]
 
 # test images (relative to "path")
-test: train/synthetic/images
+test: [test/synthetic/images, test/real/images]
 
 # 12 classes: 6 tanks and 6 flags
 names:
