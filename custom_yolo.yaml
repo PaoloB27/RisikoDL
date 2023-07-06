@@ -10,7 +10,7 @@ train: train/synthetic/images
 val: validation/synthetic/images
 
 # test images (relative to "path")
-test: train/synthetic/images
+test: test/synthetic/images
 
 # 12 classes: 6 tanks and 6 flags
 names:
