@@ -1,8 +1,6 @@
 # Risiko! tanks and flags detection
-
 ## Material provided
 Everything has already been provided: all files after having run all the notebooks have been included in the folder.
-
 ## How to run the code
 The code has been split into notebooks. Here is reported the order in which to run the notebooks:
   - “Risk!_Synthetic_Dataset_Creatore.ipynb” to generate the synthetic images (will put them in the created folder “synthetic_dataset”);
